@@ -1,4 +1,4 @@
-#NQueenVisualization
+# NQueenVisualization
 NQueenProblem is one of the most famous problem for programming.  
 It helps understanding of "backtrack" and "search algorithm".  
 
